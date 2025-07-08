@@ -1,2 +1,1 @@
-# Terminal-Emulator-App
-"A collection of Termux source codes” 
+# Terminal Emulator App\n\nThis repository contains the source codes of the Termux project, including termux-app, termux-api, termux-packages, termux-shared, terminal-emulator, and terminal-view, cloned from the official Termux repositories under the GPL-3.0 license.\n\nOriginal project: https://github.com/termux\nLicense: GNU General Public License v3.0
